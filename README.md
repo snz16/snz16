@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snz16
 - 👀 I’m interested in running, lifting, bullet journaling, singing, playing guitar, and doing outdoor activities 
-- 🌱 I’m currently learning React & Angular 
+- 🌱 I’m currently working on my HTML, CSS, JS, React & Angular skills 
 - 💞️ I’m looking to collaborate on a Mobile App project 
 - 📫 How to reach me: Serena.center1@gmail.com 
 
